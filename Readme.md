@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Ilya Ananchev](https://up.htmlacademy.ru/htmlcss-individual/2/user/2461217).
-* Наставник: [Андрей Грачев] (https://htmlacademy.ru/profile/angraf).
-* Проект: [Седона] (https://github.com/IlyaAnanchev/2461217-sedona-2).
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angraf).
+* Сайт: [Седона](https://github.com/IlyaAnanchev/2461217-sedona-2).
 
 ---
 
